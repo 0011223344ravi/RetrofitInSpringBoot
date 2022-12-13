@@ -1,0 +1,13 @@
+package com.example.retrofitinspringboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RetrofitInSpringBootApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(RetrofitInSpringBootApplication.class, args);
+    }
+
+}
